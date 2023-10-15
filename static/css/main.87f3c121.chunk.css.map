@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,KAGC,SAAqB,CACtB,MAGC,WAAqB,CACtB,OAGC,UAAqB","file":"main.87f3c121.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n.red {\n  color: rgb(255, 0, 0);\n}\n\n.blue {\n  color: rgb(0, 128, 0);\n}\n\n.green {\n  color: rgb(0, 0, 255);\n}\n"]}
